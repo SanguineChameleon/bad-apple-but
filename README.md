@@ -10,7 +10,7 @@ Please don't try this at home.
 
 | **Repository** | **Video** |
 | :---: | --- |
-| [ADN](ADN) | *Unreleased* |
+| [ADN](ADN) | [Bad Apple but it's test cases for Problem 1 of VOI 2023](https://www.youtube.com/watch?v=qS99LUbGxXs) |
 | [recursive](recursive) | [Bad Apple but it's made out of Bad Apple](https://www.youtube.com/watch?v=ptuoVxdaItE)
 | [tupper](tupper) | [Bad Apple but it's Tupper's Self-Referential Formula](https://www.youtube.com/watch?v=Kl4KlB6-TM4) |
 | [rectangles](rectangles) | [Bad Apple but it's lines and rectangles](https://www.youtube.com/watch?v=M97TKD7gqvQ) |
